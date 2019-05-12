@@ -2,7 +2,7 @@
 Atomic variables, getters/setters, Even http and File->Json :)<br>
 `Atom` is an `interface` with `static` methods, which creates Atoms, so don't be scared :)
 
-## Operate operation
+## Some small samples
 ```java
 public class X {
     public static void main(String ... args) {
